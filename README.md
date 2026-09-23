@@ -58,4 +58,45 @@ tsg-webdev-p01-maryum-shaikh/
     ├── profile.png
     ├── project-wordpress.png
     ├── project-marketing.png
-    └── project-aws.jpg
+    ├── project-aws.jpg
+    ├── Desktop 1440px.jpeg
+    ├── Tablet 768px.jpeg
+    └── Mobile 360px.jpeg
+```
+
+## Live Website
+
+[View Live Portfolio](https://maryumshaikh13.github.io/tsg-webdev-p01-maryum-shaikh/)
+
+## Screenshots
+
+### Desktop View
+
+![Desktop View](images/Desktop%201440px.jpeg)
+
+### Tablet View
+
+![Tablet View](images/Tablet%20768px.jpeg)
+
+### Mobile View
+
+![Mobile View](images/Mobile%20360px.jpeg)
+
+## Setup
+
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in a web browser.
+4. No additional dependencies are required.
+
+## Author
+
+**Maryum Shaikh**
+
+GitHub: [MaryumShaikh13](https://github.com/MaryumShaikh13)
+
+LinkedIn: [Maryum Shaikh](https://linkedin.com/in/maryumshaikh)
+
+```
+**Important:** Iske baad README ko dobara edit karne ki zaroorat nahi honi chahiye. Phir hum final submission checklist par jayenge. 🚀
+```
