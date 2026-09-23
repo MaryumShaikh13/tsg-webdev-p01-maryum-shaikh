@@ -1,10 +1,10 @@
 # Maryum Shaikh | Personal Portfolio
 
-A responsive single page personal portfolio website created as part of The Sky Gen Web Development Internship Project 01.
+A responsive single-page personal portfolio website created as part of The Sky Gen Web Development Internship Project 01.
 
 ## About the Project
 
-This portfolio website presents my professional background, skills, projects, and contact information in a clean and responsive layout. The website was developed from scratch using HTML, CSS, and vanilla JavaScript without using any page builder or drag and drop tool.
+This portfolio website presents my professional background, skills, projects, and contact information in a clean and responsive layout. The website was developed from scratch using HTML, CSS, and vanilla JavaScript without using any page builder or drag-and-drop tool.
 
 ## Features
 
@@ -38,11 +38,11 @@ Responsive WordPress website development with focus on usability, content struct
 
 ### Digital Marketing & Social Media
 
-Social media content planning, digital marketing strategies, audience focused content, and online branding.
+Social media content planning, digital marketing strategies, audience-focused content, and online branding.
 
 ### AWS Cloud Project
 
-Hands on learning and practical work with Amazon S3, EC2, IAM, AWS CLI, and cloud storage fundamentals.
+Hands-on learning and practical work with Amazon S3, EC2, IAM, AWS CLI, and cloud storage fundamentals.
 
 ## Project Structure
 
@@ -96,7 +96,3 @@ tsg-webdev-p01-maryum-shaikh/
 GitHub: [MaryumShaikh13](https://github.com/MaryumShaikh13)
 
 LinkedIn: [Maryum Shaikh](https://linkedin.com/in/maryumshaikh)
-
-```
-**Important:** Iske baad README ko dobara edit karne ki zaroorat nahi honi chahiye. Phir hum final submission checklist par jayenge. 🚀
-```
